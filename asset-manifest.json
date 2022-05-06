@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/weatherwithjson/static/css/main.a63b2b14.css",
+    "main.js": "/weatherwithjson/static/js/main.be5cc875.js",
+    "static/media/weathericons-regular-webfont.svg": "/weatherwithjson/static/media/weathericons-regular-webfont.1341a15172cec8dae06e.svg",
+    "static/media/lol.jpg": "/weatherwithjson/static/media/lol.f919a0782ce078324722.jpg",
+    "static/media/weathericons-regular-webfont.eot": "/weatherwithjson/static/media/weathericons-regular-webfont.bb2ec001c20cf752f852.eot",
+    "static/media/weathericons-regular-webfont.ttf": "/weatherwithjson/static/media/weathericons-regular-webfont.0942d1e1c447d6ce3ffc.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/weatherwithjson/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
+    "static/media/weathericons-regular-webfont.woff2": "/weatherwithjson/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
+    "index.html": "/weatherwithjson/index.html",
+    "main.a63b2b14.css.map": "/weatherwithjson/static/css/main.a63b2b14.css.map",
+    "main.be5cc875.js.map": "/weatherwithjson/static/js/main.be5cc875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63b2b14.css",
+    "static/js/main.be5cc875.js"
+  ]
+}
